@@ -4,12 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/neonlight0123/read-js-share-pages/blob/main/LICENSE)
 [![node](https://img.shields.io/badge/node-%3E%3D%2018-green.svg)](https://nodejs.org)
 [![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](#requirements)
-[![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#requirements)
-
-[![stars](https://img.shields.io/github/stars/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/stargazers)
-[![forks](https://img.shields.io/github/forks/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/forks)
-[![issues](https://img.shields.io/github/issues/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/issues)
-[![last commit](https://img.shields.io/github/last-commit/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/commits/main)
 
 **An [Agent Skill](https://agentskills.io) for reading JavaScript-rendered share pages** — Gemini share links and similar client-side-rendered conversations — that plain HTTP fetches return as empty shells.
 
