@@ -1,5 +1,16 @@
 # Read JS Share Pages — Agent Skill
 
+[![type: agent skill](https://img.shields.io/badge/type-agent%20skill-8A2BE2.svg)](https://agentskills.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/neonlight0123/read-js-share-pages/blob/main/LICENSE)
+[![node](https://img.shields.io/badge/node-%3E%3D%2018-green.svg)](https://nodejs.org)
+[![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](#requirements)
+[![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#requirements)
+
+[![stars](https://img.shields.io/github/stars/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/stargazers)
+[![forks](https://img.shields.io/github/forks/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/forks)
+[![issues](https://img.shields.io/github/issues/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/issues)
+[![last commit](https://img.shields.io/github/last-commit/neonlight0123/read-js-share-pages.svg)](https://github.com/neonlight0123/read-js-share-pages/commits/main)
+
 **An [Agent Skill](https://agentskills.io) for reading JavaScript-rendered share pages** — Gemini share links and similar client-side-rendered conversations — that plain HTTP fetches return as empty shells.
 
 It gives any coding agent (Claude Code, DeepSeek Harness `dsh`, Codex, Gemini CLI, Cursor, …) a proven, dependency-free recipe: render the page with headless Chromium-family browsers already on the machine (Edge/Chrome), dump the DOM, and extract the conversation text with a small Node script.
